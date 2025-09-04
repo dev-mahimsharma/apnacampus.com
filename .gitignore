@@ -1,0 +1,29 @@
+# Node modules
+**/node_modules
+
+# Environment files
+**/.env
+**/*.env
+
+# Logs
+**/*.log
+
+# Build/output directories
+frontend/dist
+frontend/build
+frontend/.vite
+backend/dist
+
+# VSCode settings
+.vscode/
+
+# npm debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS files
+.DS_Store
+
+# Temporary files
+*.tmp

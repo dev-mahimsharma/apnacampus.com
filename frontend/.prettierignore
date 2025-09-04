@@ -1,0 +1,18 @@
+# Node modules
+node_modules
+
+# Build output
+dist
+build
+.vite
+
+# Local config files
+*.local
+.env
+*.env
+
+# Logs
+*.log
+
+# Generated assets
+*.cache
